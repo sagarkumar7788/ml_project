@@ -32,11 +32,11 @@ to add files to git
 git add . ##to add all file
 ```
 or
-```
+
 git add <filename>
 ```
 > Note: To ignore file or folder from git we can write name of file/folder in .gitignore file\
-```
+
 To check the git status 
 ```
 git status
