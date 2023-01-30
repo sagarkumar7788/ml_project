@@ -1,11 +1,11 @@
-# Ml_project
-[Github Account](https://git.com)
+## Ml_project.
+### Software and account Requirement.
 
-[Heroku Account](https://dashboard.heroku.com/login)
-
-[VS Code IDE](https://code.visualstudio.com/download)
-
-[GIT cli](https://git-scm.com/download)
+1. [Github Account](https://git.com)
+2. [Heroku Account](https://dashboard.heroku.com/login)
+3. [VS Code IDE](https://code.visualstudio.com/download)
+4. [GIT cli](https://git-scm.com/download)
+5. [GIT  Documentation](https://git-scm.com/docs/gittutorial)
 
 creating conda environment
 ```
