@@ -3,4 +3,5 @@ gunicorn
 sklearn
 pandas
 numpy
-setuptools
+-e . ## Using this we install internal packages in short it run setup.py for install all packages internal as well as external
+ 
