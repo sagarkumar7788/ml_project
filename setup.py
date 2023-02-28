@@ -35,8 +35,8 @@ version=VERSION,
 author=AUTHOR,
 description=DESRCIPTION,
 packages= find_packages(), ## it will automatically find __init__ package we don`t need to locate with hard code
-# install_requires = get_requirements_list()
-install_requires = ['Flask', 'gunicorn', 'sklearn', 'pandas', 'numpy','-e .']
+install_requires = get_requirements_list()
+#install_requires = ['Flask', 'gunicorn', 'sklearn', 'pandas', 'numpy','-e .']
 )
 
 

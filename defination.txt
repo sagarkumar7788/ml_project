@@ -1,2 +1,4 @@
 gunicorn- ist handle to web server request and map with the logic code inside the program, 
 we use  gunicorn for falsk and django for run any program 
+At first we work pk logger and exception folder under housing folder
+we use logger for tracking what is happining and exception to control the progrm running while code is getting sommer error
